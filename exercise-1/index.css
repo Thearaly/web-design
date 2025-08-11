@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    background: white;
+}
+h1:hover,
+h2:hover {
+    color: black;
+    transition-duration: 300ms;
+    cursor: pointer;
+}
+h1 {
+    color: rgb(184, 106, 119);
+    font-family: "Roboto", sans-serif;
+}
+h2 {
+    color: rgb(184, 106, 119);
+    font-style: normal;
+}
+h3 {
+    color: rgb(184, 106, 119);
+}
+h4 {
+    color: pink;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+img {
+    margin-left: 350px;
+}
